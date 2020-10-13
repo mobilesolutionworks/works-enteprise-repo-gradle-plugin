@@ -25,7 +25,7 @@ jacoco {
 }
 
 group = "com.mobilesolutionworks.gradle"
-version = "2.0.1"
+version = "1.0.0"
 
 gradlePlugin {
     plugins {
